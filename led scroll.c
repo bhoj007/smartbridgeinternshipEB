@@ -2,7 +2,7 @@
  * ledscroll.c
  *
  * Created: 5/14/2019 12:44:39 PM
- * Author : neetutater3
+ * Author : bhoj007
  */ 
 
 #ifndef F_CPU
