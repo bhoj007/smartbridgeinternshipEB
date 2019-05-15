@@ -5,7 +5,7 @@
  * Author : bhoj007
  */ 
 #ifndef  F_CPU
-#define F_CPU 16000000UL
+#define F_CPU 1600000000UL
 #endif
 
 #include <avr/io.h>
