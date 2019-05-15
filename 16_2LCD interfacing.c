@@ -2,7 +2,7 @@
  * evenodd.c
  *
  * Created: 5/10/2019 10:13:22 AM
- * Author : neetutater3
+ * Author : bhoj007
  */ 
 #ifndef  F_CPU
 #define F_CPU 16000000UL
