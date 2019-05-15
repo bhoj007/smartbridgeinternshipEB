@@ -1,3 +1,9 @@
+/*
+ * ldr and relay interface with DEN.c
+ *
+ * Created: 5/14/2019 10:26:07 AM
+ * Author : bhoj007
+ */ 
 
 #include <avr/io.h>
 #define F_CPU 1000000
