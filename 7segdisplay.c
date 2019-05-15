@@ -2,7 +2,7 @@
  * 7segdisp.c
  *
  * Created: 5/14/2019 10:26:07 AM
- * Author : neetutater3
+ * Author : bhoj007
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL
