@@ -1,0 +1,27 @@
+int pin = 22;
+ 
+void setup()
+{
+  pinMode(pin,INPUT);
+  pinMode(2,OUTPUT);
+  Serial.begin(115200);
+}
+ 
+void loop()
+{
+ 
+  bool isDetected = digitalRead(pin);
+ 
+  if(isDetected)
+  {
+    Serial.println("Presence detected");
+    digitalWrite(2,HIGH);
+  
+  }
+  else{
+  Serial.println("waiting......");
+ digitalWrite(2,LOW);
+  }
+  delay(500);
+}
+                                                                                                                                                                                                                                                                                                                   
